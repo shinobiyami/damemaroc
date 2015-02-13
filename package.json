@@ -1,0 +1,10 @@
+{
+	"name":"Test1",
+	"Version":"0.1.0",
+	"private":"true",
+	"dependencies":
+		{
+	        "socket.io":"1.2.1",
+	        "express":"4.10.5"
+		}
+}
